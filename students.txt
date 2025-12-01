@@ -1,0 +1,4 @@
+12345 hello maths 65
+12031 lily maths 88
+20250 linux btech csc 50
+10023 rose btech csc 90
